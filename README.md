@@ -24,14 +24,14 @@ Documentation created by exploring and testing publicly available software produ
 
 Developer-focused documentation covering API concepts, requests, parameters, and responses.
 
-- **TheMealDB API (./product-documentation/trello-automation/README.md)**
+- **[TheMealDB API](./product-documentation/trello-automation/README.md)**
 
 ### Technical Content
 
 Articles and technical content.
 
-- **Google Search Audience Targeting — Part 1**
-- **Optimised Targeting and Audience Expansion — Part 2**
+- **[Google Search Audience Targeting — Part 1](https://medium.com/@sh.blog19/google-search-audience-made-simple-types-of-targeting-part-1-7784f12e813c)**
+- **[Optimised Targeting and Audience Expansion — Part 2](https://medium.com/@sh.blog19/optimised-targeting-and-audience-expansion-targeting-made-simple-part-2-1cf1a571f33f)**
 
 ---
 
@@ -61,6 +61,6 @@ My background in UI engineering also helps me understand software from both the 
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [Sayantani Halder](YOUR_LINKEDIN_URL)
-- **Portfolio:** [Your Portfolio Website](YOUR_PORTFOLIO_URL)
-- **Email:** your-email@example.com
+- **LinkedIn:** [Sayantani Halder](https://www.linkedin.com/in/sayantanihalder96/)
+- **Portfolio:** [Your Portfolio Website](https://github.com/Sayantani96/Sayantani_Portfolio)
+- **Email:** sayantani.h96@gmail.com
