@@ -15,7 +15,7 @@
 ---
 
 ## Trello Automation
-Trello Automation allows users to automate repetitive actions on their boards. Instead of manually performing the same action each time a card changes, you can configure an automation to perform the action automatically when a specified condition is met.
+Trello Automation allows users to automate repetitive actions on their boards. Instead of manually performing the same action each time a card changes, you can configure an automation to perform the action automatically when a specified condition is met.</br>
 ![Screenshot](images/trello-12.png)
 
 For example, you can create an automation that moves a card to a specific list when a particular action occurs, or performs an action when a card is moved to another list.
