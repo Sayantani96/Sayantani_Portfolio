@@ -24,6 +24,15 @@ Documentation created by exploring and testing publicly available software produ
     - Step-by-step procedures
     - Prerequisites and requirements
     - Screenshots and examples
+### Release Notes
+
+Release notes documenting product updates and changes based on publicly available software releases.
+
+- **[PostHog Release Notes](./product-documentation/release-notes/Pixlr-how-to-guide.md)**
+  - New features and enhancements
+  - Product improvements
+  - User impact and benefits
+  - Clear, concise release communication
 
 ### API Documentation
 
