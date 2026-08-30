@@ -84,5 +84,4 @@ My background in UI engineering also helps me understand software from both the 
 ## 📫 Connect With Me
 
 - **LinkedIn:** [Sayantani Halder](https://www.linkedin.com/in/sayantanihalder96/)
-- **Portfolio:** [Your Portfolio Website](https://github.com/Sayantani96/Sayantani_Portfolio)
 - **Email:** sayantani.h96@gmail.com
