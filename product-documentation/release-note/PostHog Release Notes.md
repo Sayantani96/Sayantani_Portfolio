@@ -2,7 +2,7 @@
 
 ## August 2026
 
-### 🚀 Introducing Self-Driving Mode
+### Introducing Self-Driving Mode
 
 PostHog is expanding its AI capabilities to help teams identify and resolve product issues with less manual investigation.
 
@@ -45,5 +45,3 @@ To get started:
 Self-Driving Mode is part of PostHog's evolving AI capabilities. Availability and supported functionality may vary by product, integration, and account configuration.
 
 ---
-
-*This release note is a portfolio sample based on publicly available PostHog product information.*
