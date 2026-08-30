@@ -1,9 +1,5 @@
 # PostHog Release Notes
 
-*Sample portfolio piece. Feature areas are inspired by PostHog's real product surface (feature flags, data warehouse, Slack integration) but the specific releases, dates, and wording below are written for demonstration purposes.*
-
----
-
 ## v2.14.0 — March 3, 2026
 
 ### New features
