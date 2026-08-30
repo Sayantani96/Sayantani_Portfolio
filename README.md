@@ -19,6 +19,11 @@ Documentation created by exploring and testing publicly available software produ
   - Step-by-step procedures
   - UI screenshots
   - Troubleshooting and best practices
+ - **[How-to Guide](./product-documentation/release-notes/README.md)**
+  - Task-oriented instructions
+  - Step-by-step procedures
+  - Prerequisites and requirements
+  - Screenshots and examples
 
 ### API Documentation
 
