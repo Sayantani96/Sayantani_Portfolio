@@ -77,7 +77,7 @@ To create a button, follow the steps below.
 Add an appropriate Button Name.
 - Select the **Enabled by default** and/or **Close card when action is performed** checkboxes if required.
 > Note: Selecting Close card when action is performed archives the card automatically. Choose the option only if that is the intended outcome.
-Once all the configurations are complete, select Add Action. The Select an Action section appears.</br> </br>
+- Once all the configurations are complete, select **Add Action**.</br> </br>
 ![Screenshot](images/trello-07.png)
 </br> </br>
 - Select the appropriate action category.
