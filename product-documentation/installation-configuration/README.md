@@ -64,7 +64,7 @@ The first time you open n8n, it prompts you to create an owner account for this 
 Click **Next** and finally **Finish Setup** to complete this step. You are then taken to the main workflow editor.
 Select **Build workflow**.
 
-![Editor](images/image5)
+![Editor](images/image5.png)
 
 At this point, n8n is installed and running locally.
 
@@ -105,13 +105,13 @@ Variables set this way only apply to that terminal session. If you close the ter
 
 > **Note:** `WEBHOOK_URL` only needs to be changed if you are exposing your local instance to the internet, for example with a tunnel, so that external services can reach your webhook nodes. For purely local testing, the default is fine.
 
-![env variables](images/image6)
+![env variables](images/image6.png)
 
 ### Verifying a configuration change
 
 After setting a variable and restarting n8n, the change reflects in the startup log lines, or in the affected setting itself (for example, the port n8n reports listening on).
 
-![restart](images/image7)
+![restart](images/image7.png)
 
 ---
 
