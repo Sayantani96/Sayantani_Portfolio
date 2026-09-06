@@ -14,12 +14,12 @@ I create clear, structured, and user-focused documentation for software products
 
 Documentation created by exploring and testing publicly available software products.
 
-- **[Trello Automation](./product-documentation/trello-automation/README.md)**
+- **[Trello automation](./product-documentation/trello-automation/README.md)**
   - Feature documentation
   - Step-by-step procedures
   - UI screenshots
   - Troubleshooting and best practices
- - **[How-to Guide](./product-documentation/release-notes/README.md)**
+ - **[How-to guide](./product-documentation/release-notes/README.md)**
     - Task-oriented instructions
     - Step-by-step procedures
     - Prerequisites and requirements
@@ -28,14 +28,14 @@ Documentation created by exploring and testing publicly available software produ
 
 Release notes documenting product updates and changes based on publicly available software releases.
 
-- **[PostHog Release Notes](./product-documentation/release-notes/Pixlr-how-to-guide.md)**
+- **[PostHog release notes](./product-documentation/release-notes/Pixlr-how-to-guide.md)**
   - New features and enhancements
   - Product improvements
   - User impact and benefits
   - Clear, concise release communication
 ### Installation and configuration
 Step-by-step guides for installing and configuring self-hosted tools, including setup, environment configuration, and troubleshooting.
-- **[n8n Installation and Configuration Guide](./product-documentation/installation-and-configuration/README.md)**
+- **[n8n Installation and configuration guide](./product-documentation/installation-and-configuration/README.md)**
   - Prerequisites and setup
   - Step-by-step installation instructions
   - Environment variable configuration
@@ -55,18 +55,18 @@ Developer-focused documentation covering API concepts, requests, parameters, and
 
 Articles and technical content.
 
-- **[Google Search Audience Targeting — Part 1](https://medium.com/@sh.blog19/google-search-audience-made-simple-types-of-targeting-part-1-7784f12e813c)**
+- **[Google search audience targeting — Part 1](https://medium.com/@sh.blog19/google-search-audience-made-simple-types-of-targeting-part-1-7784f12e813c)**
   - Research-based technical content
   - Concept explanation
   - Structured, reader-friendly presentation
-- **[Optimised Targeting and Audience Expansion — Part 2](https://medium.com/@sh.blog19/optimised-targeting-and-audience-expansion-targeting-made-simple-part-2-1cf1a571f33f)**
+- **[Optimised targeting and audience expansion — Part 2](https://medium.com/@sh.blog19/optimised-targeting-and-audience-expansion-targeting-made-simple-part-2-1cf1a571f33f)**
   - Concept-focused technical content
   - Clear explanations of complex terminology
   - Structured content for easy comprehension
  ### Training video
  
 A short training video demonstrating a software workflow and explaining the process step by step.
-- **[Training Video_Trello Button Automation](https://drive.google.com/file/d/1KcHxQkHbhxWVdpRfqKK6yCkhVCcZjC2n/view?usp=drive_link)**
+- **[Training video_trello button automation](https://drive.google.com/file/d/1KcHxQkHbhxWVdpRfqKK6yCkhVCcZjC2n/view?usp=drive_link)**
   - Step-by-step feature demonstration
   - Voice-over explanation
   - Practical software workflow
