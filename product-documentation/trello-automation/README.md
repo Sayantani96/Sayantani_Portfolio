@@ -1,20 +1,20 @@
 # Table of Contents
 
-- [Trello Automation](#trello-automation)
-  - [How Trello Automation Works](#how-trello-automation-works)
+- [Trello automation](#trello-automation)
+  - [How Trello automation works](#how-trello-automation-works)
   - [Prerequisites](#prerequisites)
-  - [Create Automation](#create-automation)
-  - [Create a Card Button](#create-a-card-button)
-  - [Create a Scheduled Automation](#create-a-scheduled-automation)
+  - [Create automation](#create-automation)
+  - [Create a card button](#create-a-card-button)
+  - [Create a scheduled automation](#create-a-scheduled-automation)
   - [Troubleshooting](#troubleshooting)
     - [The automation did not run](#the-automation-did-not-run)
     - [The automation performed an unexpected action](#the-automation-performed-an-unexpected-action)
-  - [Best Practices](#best-practices)
+  - [Best practices](#best-practices)
   - [Summary](#summary)
 
 ---
 
-## Trello Automation
+## 1. Trello automation
 Trello Automation allows users to automate repetitive actions on their boards. Instead of manually performing the same action each time a card changes, you can configure an automation to perform the action automatically when a specified condition is met.</br> </br>
 ![Screenshot](images/trello-12.png)
 </br> </br>
@@ -22,20 +22,20 @@ For example, you can create an automation that moves a card to a specific list w
 ![Screenshot](images/trello-10.png)
 </br> </br>
 This guide explains how to create and manage common automations in Trello.
-### How Trello Automation Works
+### 2. How trello automation works
 A Trello automation generally consists of a trigger and one or more actions.
 Trigger: Defines when the automation should run.
 Action: Defines what Trello should do when the trigger occurs.
 For example,
 When a card is moved to the Done list (trigger), mark the card as complete (action).
 Depending on the automation type, you can create automations based on rules, card buttons, board buttons, or scheduled events.
-#### Prerequisites
+#### 2.1. Prerequisites
 Before creating an automation:
 Sign in to Trello.
 Open the board where you want to create the automation.
 Create at least one list and a few cards that you can use to test the automation.
 Note: Ensure you have the permission to configure automation on the board.
-#### Create Automation
+#### 2.2. Create automation
 To create an automation rule in your board, follow the steps below.</br> </br>
 ![Screenshot](images/trello-05.png)
 </br> </br>
@@ -61,7 +61,7 @@ Click the + (plus) icon next to the action to add it to the rule.</br> </br>
 </br> </br>
 Review the rule configuration.
 Once you are ready, click Save at the top right.
-#### Create a Card Button
+#### 2.3. Create a card button
 Card buttons allow users to manually trigger an automation from a card by clicking a button.</br> </br>
 ![Screenshot](images/trello-18.png)
 </br> </br>
@@ -85,7 +85,7 @@ Click the + (plus) icon next to the required action to add it to the button. The
 ![Screenshot](images/trello-03.png)
 </br> </br>
 Once the configuration is complete, click Save at the top right.
-#### Create a Scheduled Automation
+#### 2.4. Create a scheduled automation
 Scheduled automations allow you to configure actions that run according to a schedule.
 For example, you could configure an automation to perform a recurring action on your board at a specified time.</br> </br>
 ![Screenshot](images/trello-16.png)
@@ -107,23 +107,20 @@ Click the + (plus) icon next to the required action. The selected action will be
 ![Screenshot](images/trello-14.png)
 </br> </br>
 Once the configuration is complete, click Save.
-### Troubleshooting
-#### The automation did not run
+### 3. Troubleshooting
+#### 3.1. The automation did not run
 Check the following:
 Confirm that the automation is saved and enabled.
 Verify that the trigger condition was actually met.
 Check that the configured action is valid.
 Test the automation with a new card.
 Review the automation configuration for incorrect conditions.
-#### The automation performed an unexpected action
+#### 3.2. The automation performed an unexpected action
 Review the automation configuration and check all actions associated with the trigger. If multiple automations are configured on the same board, verify whether another automation could have affected the card.
-### Best Practices
+### 4. Best Practices
 When creating Trello automations:
 Start with simple automations and test them before creating complex workflows.
 Use descriptive names for automations.
 Test automations with sample cards before applying them to active workflows.
 Review existing automations before creating a new one to avoid duplicate actions.
 Document important automations so that other board members understand their purpose.
-### Summary
-Trello Automation can reduce repetitive board-management tasks by automatically performing actions based on defined triggers, user actions, or schedules.
-By combining triggers with actions, teams can create automated workflows that help keep their boards organized and reduce manual work.
