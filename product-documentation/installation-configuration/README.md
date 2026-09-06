@@ -21,7 +21,7 @@ Before you begin, make sure you have the following installed:
 
 > **Note:** If you do not have Node.js installed, download it from [nodejs.org](https://nodejs.org) before continuing.
 
-*Screenshot: terminal output showing `node -v` and `npm -v` results*
+![node version check](./images/image1)
 
 ---
 
