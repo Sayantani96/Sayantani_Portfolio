@@ -35,6 +35,8 @@ npx n8n
 
 This downloads everything n8n needs to run and starts the application. You do not need to install anything globally first.
 
+> **Note:** Large installs can occasionally fail with an `EIDLETIMEOUT` error if the connection to the npm registry stalls. If this happens, retry the command. If it persists, increase npm's timeout with `npm config set fetch-timeout 600000` before retrying, or install n8n globally instead with `npm install n8n -g`.
+
 *Screenshot: terminal output while npx is downloading n8n packages*
 
 Once the download finishes, n8n starts a local server. You should see log output in your terminal confirming it is running, along with the local address it is available at.
@@ -61,7 +63,8 @@ The first time you open n8n, it prompts you to create an owner account for this 
 
 *Screenshot: owner account setup screen*
 
-Click **Next** or **Finish Setup** to complete this step. You are then taken to the main workflow editor.
+Click **Next** and finally **Finish Setup** to complete this step. You are then taken to the main workflow editor.
+Select **Build workflow**.
 
 *Screenshot: n8n workflow editor, empty canvas, after setup completes*
 
@@ -108,7 +111,7 @@ Variables set this way only apply to that terminal session. If you close the ter
 
 ### Verifying a configuration change
 
-After setting a variable and restarting n8n, the change usually shows up in the startup log lines, or in the affected setting itself (for example, the port n8n reports listening on).
+After setting a variable and restarting n8n, the change reflects in the startup log lines, or in the affected setting itself (for example, the port n8n reports listening on).
 
 *Screenshot: terminal log confirming the new port or timezone after restart*
 
@@ -130,11 +133,11 @@ Your workflows and owner account are not affected by stopping the process. Since
 
 ## Troubleshooting
 
-**Port 5678 is already in use**
+1. **Port 5678 is already in use**
 Another process, possibly a previous n8n session, is using the port. Either stop that process or set a different port with `N8N_PORT` before starting n8n again.
 
-**Browser shows "connection refused" at localhost:5678**
+2. **Browser shows "connection refused" at localhost:5678**
 n8n may still be starting up. Check your terminal for a confirmation message before refreshing the page.
 
-**Environment variable does not seem to apply**
+3. **Environment variable does not seem to apply**
 Confirm you set the variable in the same terminal session before running `npx n8n`. Variables set in a different terminal window or a previous session do not carry over.
