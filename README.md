@@ -1,6 +1,6 @@
 # Sayantani Halder
 
-### Technical Writer | Product Documentation | API Documentation | Technical Content
+### Technical writer | Product documentation | API documentation | Technical content
 
 Welcome to my technical writing portfolio.
 
@@ -8,9 +8,9 @@ I create clear, structured, and user-focused documentation for software products
 
 ---
 
-## 📚 Documentation Samples
+## 📚 Documentation samples
 
-### Product Documentation
+### Product documentation
 
 Documentation created by exploring and testing publicly available software products.
 
@@ -24,7 +24,7 @@ Documentation created by exploring and testing publicly available software produ
     - Step-by-step procedures
     - Prerequisites and requirements
     - Screenshots and examples
-### Release Notes
+### Release notes
 
 Release notes documenting product updates and changes based on publicly available software releases.
 
@@ -33,8 +33,9 @@ Release notes documenting product updates and changes based on publicly availabl
   - Product improvements
   - User impact and benefits
   - Clear, concise release communication
+### Installation and configuration
 
-### API Documentation
+### API documentation
 
 Developer-focused documentation covering API concepts, requests, parameters, and responses.
 
@@ -45,7 +46,7 @@ Developer-focused documentation covering API concepts, requests, parameters, and
   - JSON response examples
   - API testing with Postman
 
-### Technical Content
+### Technical content
 
 Articles and technical content.
 
@@ -57,7 +58,7 @@ Articles and technical content.
   - Concept-focused technical content
   - Clear explanations of complex terminology
   - Structured content for easy comprehension
- ### Training Video
+ ### Training video
  
 A short training video demonstrating a software workflow and explaining the process step by step.
 - **[Training Video_Trello Button Automation](https://drive.google.com/file/d/1KcHxQkHbhxWVdpRfqKK6yCkhVCcZjC2n/view?usp=drive_link)**
@@ -66,7 +67,7 @@ A short training video demonstrating a software workflow and explaining the proc
   - Practical software workflow
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Skills & tools
 
 **Documentation**
 `Markdown` · `OpenAPI` · `Swagger` · `API Documentation` · `User Guides` · `Feature Documentation`
@@ -74,15 +75,15 @@ A short training video demonstrating a software workflow and explaining the proc
 **Technical**
 `REST APIs` · `JSON` · `Git` · `GitHub` · `Postman`
 
-**Web Technologies**
+**Web technologies**
 `HTML` · `CSS` · `JavaScript` · `React` · `TypeScript`
 
-**Documentation Tools**
+**Documentation tools**
 `Document360` · `MadCap Flare` · `ClickHelp`
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 About me
 
 I have experience working with software products and collaborating with product and engineering teams to understand technical features and turn them into clear, accessible documentation.
 
@@ -90,7 +91,7 @@ My background in UI engineering also helps me understand software from both the 
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect with me
 
 - **LinkedIn:** [Sayantani Halder](https://www.linkedin.com/in/sayantanihalder96/)
 - **Email:** sayantani.h96@gmail.com
