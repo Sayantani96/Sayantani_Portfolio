@@ -34,7 +34,12 @@ Release notes documenting product updates and changes based on publicly availabl
   - User impact and benefits
   - Clear, concise release communication
 ### Installation and configuration
-
+Step-by-step guides for installing and configuring self-hosted tools, including setup, environment configuration, and troubleshooting.
+- **[n8n Installation and Configuration Guide](./product-documentation/installation-and-configuration/README.md)**
+  - Prerequisites and setup
+  - Step-by-step installation instructions
+  - Environment variable configuration
+  - Verification and troubleshooting
 ### API documentation
 
 Developer-focused documentation covering API concepts, requests, parameters, and responses.
