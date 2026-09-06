@@ -1,6 +1,6 @@
 # n8n Installation and Configuration Guide
 
-This guide walks through installing n8n locally using npm, and configuring the settings you will most commonly need for local development and testing.
+This guide walks through installing n8n locally using npm and configuring the settings you will most commonly need for local development and testing.
 
 **Scope:** This guide covers the npm/npx installation method, intended for local development and testing. It does not cover Docker or production deployment.
 
@@ -37,11 +37,11 @@ This downloads everything n8n needs to run and starts the application. You do no
 
 > **Note:** Large installs can occasionally fail with an `EIDLETIMEOUT` error if the connection to the npm registry stalls. If this happens, retry the command. If it persists, increase npm's timeout with `npm config set fetch-timeout 600000` before retrying, or install n8n globally instead with `npm install n8n -g`.
 
-*Screenshot: terminal output while npx is downloading n8n packages*
+![npx n8n](images/image2.png)
 
 Once the download finishes, n8n starts a local server. You should see log output in your terminal confirming it is running, along with the local address it is available at.
 
-*Screenshot: terminal output showing n8n has started, with the editor URL visible*
+![localhost](images/image3.png)
 
 ---
 
@@ -53,7 +53,7 @@ In your browser, go to:
 http://localhost:5678
 ```
 
-*Screenshot: browser window loading localhost:5678 for the first time*
+![signup page](images/image4.png)
 
 ---
 
@@ -61,12 +61,10 @@ http://localhost:5678
 
 The first time you open n8n, it prompts you to create an owner account for this instance. Fill in your email, first and last name, and a password.
 
-*Screenshot: owner account setup screen*
-
 Click **Next** and finally **Finish Setup** to complete this step. You are then taken to the main workflow editor.
 Select **Build workflow**.
 
-*Screenshot: n8n workflow editor, empty canvas, after setup completes*
+![Editor](images/image5)
 
 At this point, n8n is installed and running locally.
 
@@ -107,13 +105,13 @@ Variables set this way only apply to that terminal session. If you close the ter
 
 > **Note:** `WEBHOOK_URL` only needs to be changed if you are exposing your local instance to the internet, for example with a tunnel, so that external services can reach your webhook nodes. For purely local testing, the default is fine.
 
-*Screenshot: terminal showing a variable being set and n8n restarting with it applied*
+![env variables](images/image6)
 
 ### Verifying a configuration change
 
 After setting a variable and restarting n8n, the change reflects in the startup log lines, or in the affected setting itself (for example, the port n8n reports listening on).
 
-*Screenshot: terminal log confirming the new port or timezone after restart*
+![restart](images/image7)
 
 ---
 
