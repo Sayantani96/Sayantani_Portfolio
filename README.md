@@ -44,7 +44,7 @@ Step-by-step guides for installing and configuring self-hosted tools, including 
 
 Developer-focused documentation covering API concepts, requests, parameters, and responses.
 
-- **[TheMealDB API](./product-documentation/trello-automation/README.md)**
+- **[TheMealDB API](./product-documentation/mealdb-api/README.md)**
   - API overview and getting started guide
   - Endpoint documentation
   - Request parameters and examples
