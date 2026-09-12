@@ -28,7 +28,7 @@ Documentation created by exploring and testing publicly available software produ
 
 Release notes documenting product updates and changes based on publicly available software releases.
 
-- **[PostHog release notes](./product-documentation/release-notes/Pixlr-how-to-guide.md)**
+- **[PostHog release notes](./product-documentation/release-notes/README.md)**
   - New features and enhancements
   - Product improvements
   - User impact and benefits
