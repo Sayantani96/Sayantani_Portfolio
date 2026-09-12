@@ -19,7 +19,7 @@ Documentation created by exploring and testing publicly available software produ
   - Step-by-step procedures
   - UI screenshots
   - Troubleshooting and best practices
- - **[How-to guide](./product-documentation/release-notes/README.md)**
+ - **[How-to guide](./product-documentation/pixlr-how-to-guide/README.md)**
     - Task-oriented instructions
     - Step-by-step procedures
     - Prerequisites and requirements
