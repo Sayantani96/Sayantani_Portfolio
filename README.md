@@ -1,10 +1,18 @@
 # Sayantani Halder
 
-### Technical writer | Product documentation | API documentation | Technical content
+### Technical writer | Product documentation | API documentation | Technical content | Training Videos
 
-Welcome to my technical writing portfolio.
+Hello, and welcome to my technical writing portfolio.
 
-I create clear, structured, and user-focused documentation for software products, APIs, and technical workflows. With a background in UI engineering, I bring both technical understanding and a user-focused approach to documentation.
+I am Sayantani, a technical writer turning complex technical concepts, product workflows, and API information into documents that are clear, structured, and easy to use.
+
+My experience spans a range of software products and domains. I have worked with insurance and ed-tech products as a UI Engineer and later moved into technical writing, where I have worked across e-discovery, cybersecurity, and streaming media products. This experience has taught me to analyse and understand technology from both a product development and documentation perspective.
+
+This portfolio brings together samples of my work, which cover product feature documentation, how-to guides, API documentation, release notes, training videos, and technical articles. 
+It reflects my approach to documentation: understand the product, understand the user, and make the information as clear and useful as possible.
+
+Technology is constantly changing, and good documentation has to evolve with it. I am continuously learning new tools, technologies, and documentation practices to keep improving how I explain, organize, and communicate technical information.
+
 
 ---
 
@@ -12,7 +20,7 @@ I create clear, structured, and user-focused documentation for software products
 
 ### Product documentation
 
-Documentation created by exploring and testing publicly available software products.
+I explored and tested publicly available software products to document features, workflows, and step-by-step tasks for the samples below.
 
 - **[Trello automation](./product-documentation/trello-automation/README.md)**
   - Feature documentation
@@ -26,7 +34,7 @@ Documentation created by exploring and testing publicly available software produ
     - Screenshots and examples
 ### Release notes
 
-Release notes documenting product updates and changes based on publicly available software releases.
+This release note sample demonstrates how I document product updates and changes based on publicly available software releases.
 
 - **[PostHog release notes](./product-documentation/release-notes/README.md)**
   - New features and enhancements
@@ -34,6 +42,7 @@ Release notes documenting product updates and changes based on publicly availabl
   - User impact and benefits
   - Clear, concise release communication
 ### Installation and configuration
+
 Step-by-step guides for installing and configuring self-hosted tools, including setup, environment configuration, and troubleshooting.
 - **[n8n Installation and configuration guide](./product-documentation/installation-and-configuration/README.md)**
   - Prerequisites and setup
@@ -65,7 +74,7 @@ Articles and technical content.
   - Structured content for easy comprehension
  ### Training video
  
-A short training video demonstrating a software workflow and explaining the process step by step.
+A short training video that demonstrates a software workflow and explains the process step by step.
 - **[Training video_trello button automation](https://drive.google.com/file/d/1KcHxQkHbhxWVdpRfqKK6yCkhVCcZjC2n/view?usp=drive_link)**
   - Step-by-step feature demonstration
   - Voice-over explanation
@@ -74,25 +83,32 @@ A short training video demonstrating a software workflow and explaining the proc
 
 ## 🛠️ Skills & tools
 
-**Documentation**
-`Markdown` · `OpenAPI` · `Swagger` · `API Documentation` · `User Guides` · `Feature Documentation`
+**Documentation & content**
+`API Documentation` · `User Guides` · `Feature Documentation` · `How-to Guides` · `Knowledge Base Articles` · `Release Notes` · `UX Writing`
 
-**Technical**
-`REST APIs` · `JSON` · `Git` · `GitHub` · `Postman`
-
-**Web technologies**
-`HTML` · `CSS` · `JavaScript` · `React` · `TypeScript`
+**API documentation**
+`OpenAPI` · `Swagger` · `REST APIs` · `JSON` · `Postman` · `cURL`
 
 **Documentation tools**
-`Document360` · `MadCap Flare` · `ClickHelp`
+`Document360` · `MadCap Flare` · `ClickHelp` · `Visual Studio Code` · `Markdown` · `Microsoft Word` · `Microsoft PowerPoint`
+
+**Video Content & media tools**
+`Snagit` · `Clipchamp`
+
+**Development & web technologies**
+`HTML` · `CSS` · `JavaScript` · `React` · `TypeScript`
+
+**Version control & collaboration**
+`Git` · `GitHub`
+
+**AI-assisted tools**
+`ChatGPT`  · `Claude` · `Microsoft Copilot`
 
 ---
 
 ## 👩‍💻 About me
 
-I have experience working with software products and collaborating with product and engineering teams to understand technical features and turn them into clear, accessible documentation.
-
-My background in UI engineering also helps me understand software from both the development and user perspectives.
+I am a Technical Writer with experience documenting software products across e-discovery, cybersecurity, and streaming media. My background in UI engineering gives me both a developer's and user's perspective. This helps me understand technical features faster with minimal hand-holding.
 
 ---
 
