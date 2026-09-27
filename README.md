@@ -6,7 +6,7 @@ Hello, and welcome to my technical writing portfolio.
 
 I am Sayantani, a technical writer turning complex technical concepts, product workflows, and API information into documents that are clear, structured, and easy to use.
 
-My experience spans a range of software products and domains. I have worked with insurance and ed-tech products as a UI Engineer and later moved into technical writing, where I have worked across e-discovery, cybersecurity, and streaming media products. This experience has taught me to analyse and understand technology from both a product development and documentation perspective.
+My experience spans a range of software products and domains. I have worked with insurance and ed-tech products as a UI Engineer. Then, I moved into technical writing, where I have worked across e-discovery, cybersecurity, and streaming media products. This experience has taught me to analyse and understand technology from both a product development and documentation perspective.
 
 This portfolio brings together samples of my work, which cover product feature documentation, how-to guides, API documentation, release notes, training videos, and technical articles. 
 It reflects my approach to documentation: understand the product, understand the user, and make the information as clear and useful as possible.
@@ -108,7 +108,7 @@ A short training video that demonstrates a software workflow and explains the pr
 
 ## 👩‍💻 About me
 
-I am a Technical Writer with experience documenting software products across e-discovery, cybersecurity, and streaming media. My background in UI engineering gives me both a developer's and user's perspective. This helps me understand technical features faster with minimal hand-holding.
+I am a technical writer with extensive experience in documenting e-discovery, cybersecurity, and streaming media software products. My background in UI engineering gives me both a developer's and user's perspective. This helps me understand technical features faster with minimal hand-holding.
 
 ---
 
